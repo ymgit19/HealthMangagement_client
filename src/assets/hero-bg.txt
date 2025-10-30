@@ -1,0 +1,2 @@
+// This is a placeholder file. In a real application, you would add an actual image here.
+// For now, we'll use a CSS gradient as fallback in our styles.
