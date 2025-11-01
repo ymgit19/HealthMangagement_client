@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create an axios instance
 const API = axios.create({
-  baseURL: 'https://health-management-server.onrender.com'
+  baseURL: 'https://health-management-server.onrender.com/api'
 });
 
 // Add a request interceptor to include the token in headers
