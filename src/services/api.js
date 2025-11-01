@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create an axios instance
 const API = axios.create({
-  baseURL: 'http://localhost:5000/api'
+  baseURL: 'https://health-management-server.onrender.com'
 });
 
 // Add a request interceptor to include the token in headers
